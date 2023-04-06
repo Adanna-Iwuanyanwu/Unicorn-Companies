@@ -1,4 +1,5 @@
 ## UNICORN COMPANIES
+Analysis of different companies to know their valuation and rating as a unicorn company.
 
 ## BRIEF INTRODUCTION
 A company is considered a unicorn when it has a valuation of over $1 billion. There are several unicorn companies around the world today and they are mostly privately-owned companies.
